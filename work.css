@@ -1,0 +1,27 @@
+.parallax
+{
+    background-size: cover;
+    min-height: 600px;
+    background-attachment: fixed;
+    background-position: center;
+}
+.one
+{      
+    background-image: url('1.jpg');
+}
+
+.two
+{
+    background-image: url('2.jpg');
+}
+
+.three
+{
+    background-image: url('3.jpg');   
+}
+
+p
+{
+    padding: 100px;
+    font-family: fantasy;
+}
